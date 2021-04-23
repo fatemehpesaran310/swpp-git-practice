@@ -1,4 +1,6 @@
-Git Practice
+[Git] Practice
 ========
 
-My small git practice!
+My small [git] practice!
+
+[git]: https://git-scm.com/
