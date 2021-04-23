@@ -1,12 +1,10 @@
-#include <cstdlib>
 #include <iostream>
 
 using namespace std;
 
-int main(){
-  cout << "Hello World! I am Fatima"<< endl;
+int main() {
+  cout << "Hello World! I am Fatima" << endl;
 
-  cout <<"I like Samgiyabsal!" << endl;
-  cout << "I love yougert Soda!"<< endl;
-  return 0;
+  cout << "I like Samgiyabsal!" << endl;
+  cout << "I love yougert Soda!" << endl;
 }
